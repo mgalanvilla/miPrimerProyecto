@@ -1,1 +1,2 @@
 1 - Tener más soltura con JS.
+2 - Aprender otras tecnologías.
